@@ -15,7 +15,7 @@ void setup()
 { 
 Serial.begin(9600); 
 WiFi.mode(WIFI_STA); 
-WiFi.begin("Nandhana J","Nandhana@25"); 
+WiFi.begin("WIFI_NAME","PASSWORD"); 
 Serial.println("connecting"); 
 while(WiFi.status() != WL_CONNECTED) 
   { 
