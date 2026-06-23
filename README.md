@@ -121,24 +121,21 @@ PharmaBot/
 - Enhanced security features
 - Direct communication without cloud dependency
 
-
-<h2 align="center">📸 Project Screenshots</h2>
-
+##  📸 Screenshots
 <p align="center">
-  <img src="1.jpeg" width="45%" />
-  <img src="2.jpeg" width="45%" />
+  <img src="images/1.jpeg" width="45%">
+  <img src="images/2.jpeg" width="45%">
 </p>
 
 <p align="center">
-  <img src="3.jpeg" width="45%" />
-  <img src="4.jpeg" width="45%" />
+  <img src="images/3.jpeg" width="45%">
+  <img src="images/4.jpeg" width="45%">
 </p>
 
 <p align="center">
-  <img src="5.jpeg" width="45%" />
-  <img src="PharmaBot.jpeg" width="45%" />
+  <img src="images/5.jpeg" width="45%">
+  <img src="images/PharmaBot.jpeg" width="45%">
 </p>
-
 
 ## 👨‍💻 Developed As
 
