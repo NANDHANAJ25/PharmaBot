@@ -1,8 +1,8 @@
 import cv2
 import requests
 
-API_KEY = "W4WFCZURSVGI3VI3"
-API_KEY_R = "D0WGJ1JQSV6N24AN"
+API_KEY = "YOUR_WRITE_API_KEY"
+API_KEY_R = "YOUR_WRITE_API_KEY_R"
 THINGSPEAK_URL = "https://api.thingspeak.com/update"
 detector = cv2.QRCodeDetector()
 
