@@ -9,7 +9,7 @@ float val,m1,m2,m3,m4,m5;
 Servo s1,s2,s3,s4,s5; 
 int pos = 0,a=0,b=0,c=0,d=0,e=0; 
 const char* host = "api.thingspeak.com"; 
-const char* streamId   = "W4WFCZURSVGI3VI3"; 
+const char* streamId   = "YOUR_WRITE_API_KEY"; 
 
 void setup()  
 { 
