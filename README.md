@@ -123,14 +123,6 @@ PharmaBot/
 
 ## 📸 Screenshots
 
-You can add images such as:
-- Doctor Login
-- Dashboard
-- Prescription Preview
-- QR Code
-- WhatsApp Message
-- Circuit Diagram
-- Final Hardware Prototype
 
 ## 👨‍💻 Developed As
 
@@ -138,4 +130,4 @@ An academic IoT and Embedded Systems project demonstrating digital prescription 
 
 ---
 
-⭐ **If you like this project, don't forget to star the repository!**
+
