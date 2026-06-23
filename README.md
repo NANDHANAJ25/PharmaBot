@@ -122,7 +122,20 @@ PharmaBot/
 - Direct communication without cloud dependency
 
 ## 📸 Screenshots
-
+<table>
+  <tr>
+    <td><img src="1.jpeg" width="300"></td>
+    <td><img src="2.jpeg" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="3.jpeg" width="300"></td>
+    <td><img src="4.jpeg" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="5.jpeg" width="300"></td>
+    <td><img src="PharmaBot.jpeg" width="300"></td>
+  </tr>
+</table>
 
 ## 👨‍💻 Developed As
 
